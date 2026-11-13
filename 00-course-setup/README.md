@@ -35,7 +35,7 @@ git clone --depth 1 https://github.com/bog13diybog/ai-agents-for-beginners.git
 To clone a specific branch:
 
 ```bash
-git clone --depth 1 --branch <branch-name> https://github.com/bog13diybog/ai-agents-for-beginners.git
+git clone --depth 1 --branch ai-agents-for-beginners https://github.com/bog13diybog/ai-agents-for-beginners.git
 ```
 
 #### Partial (sparse) clone — minimal blobs + only selected folders
